@@ -22,4 +22,4 @@ Aplicativo simples de controle de pedidos de marmitas para uma churrascaria loca
 4. Escaneie o QR Code com o aplicativo Expo Go no seu dispositivo Android.
 
 ---
-**Projeto acadêmico — Disciplina: Programação para Dispositivos Móveis (React Native)**
+**Projeto acadêmico — Disciplina: Programação para Dispositivos Móveis em Android**
