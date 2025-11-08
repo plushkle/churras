@@ -23,4 +23,5 @@ Aplicativo simples de controle de pedidos de marmitas para uma churrascaria loca
 
 ---
 **Projeto acadêmico. Disciplina: Programação para Dispositivos Móveis em Android**  
-O Banco de Dados foi removido para garantir confidencialidade e respeito à LGPD.
+O Banco de Dados foi removido para garantir confidencialidade e respeito à LGPD.  
+Pastas afetadas: `src/context`, `src/components` e `src/services`
