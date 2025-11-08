@@ -1,4 +1,4 @@
-# 🍖 ChurrasApp
+# ChurrasApp
 
 Aplicativo simples de controle de pedidos de marmitas para uma churrascaria local.
 
